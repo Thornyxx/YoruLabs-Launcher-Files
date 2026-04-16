@@ -1,1 +1,29 @@
-
+{
+  "mods": [
+    {
+      "name": "tacz-1.20.1-1.1.7-hotfix2.jar",
+      "url": "https://github.com/Thornyxx/YoruLabs-Launcher-Files/releases/download/v1.0/tacz-1.20.1-1.1.7-hotfix2.jar"
+    },
+    {
+      "name": "kubejs-forge-2001.6.5-build.16.jar",
+      "url": "https://github.com/Thornyxx/YoruLabs-Launcher-Files/releases/download/v1.0/kubejs-forge-2001.6.5-build.16.jar"
+    },
+    {
+      "name": "rhino-forge-2001.2.3-build.10.jar",
+      "url": "https://github.com/Thornyxx/YoruLabs-Launcher-Files/releases/download/v1.0/rhino-forge-2001.2.3-build.10.jar"
+    },
+    {
+      "name": "geckolib-forge-1.20.1-4.8.3.jar",
+      "url": "https://github.com/Thornyxx/YoruLabs-Launcher-Files/releases/download/v1.0/geckolib-forge-1.20.1-4.8.3.jar"
+    },
+    {
+      "name": "cadmus-forge-1.20.1-1.0.5.jar",
+      "url": "https://github.com/Thornyxx/YoruLabs-Launcher-Files/releases/download/v1.0/cadmus-forge-1.20.1-1.0.5.jar"
+    },
+    {
+      "name": "argonauts-forge-1.20.1-1.0.10.jar",
+      "url": "https://github.com/Thornyxx/YoruLabs-Launcher-Files/releases/download/v1.0/argonauts-forge-1.20.1-1.0.10.jar"
+    }
+    
+  ]
+}v
