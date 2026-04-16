@@ -1,6 +1,14 @@
-{
-  "id": 1,
-  "date": "16/04/2026",
-  "heure": "16:45",
-  "content": "BIENVENUE SUR LE TERMINAL YORUGROUPS. TOUS LES SYSTÈMES SONT OPÉRATIONNELS."
-}
+[
+  {
+    "id": 1,
+    "date": "16/04/2026",
+    "heure": "16:45",
+    "content": "BIENVENUE SUR LE TERMINAL YORUGROUPS."
+  },
+  {
+    "id": 2,
+    "date": "16/04/2026",
+    "heure": "17:00",
+    "content": "MAINTENANCE PRÉVUE À 20H."
+  }
+]
