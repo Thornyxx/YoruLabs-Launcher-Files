@@ -1,4 +1,5 @@
 [
   { "id": 1, "content": "Bienvenue sur la nouvelle infrastructure YoruGroups." },
-  { "id": 2, "content": "Bienvenue sur le launcher de YoruGroups !" }
+  { "id": 2, "content": "Bienvenue sur le launcher de YoruGroups !" },
+  { "id": 3, "content": "Notification de test !" }
 ]
