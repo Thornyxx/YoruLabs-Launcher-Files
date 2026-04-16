@@ -23,6 +23,14 @@
     {
       "name": "argonauts-forge-1.20.1-1.0.10.jar",
       "url": "https://github.com/Thornyxx/YoruLabs-Launcher-Files/releases/download/v1.0/argonauts-forge-1.20.1-1.0.10.jar"
+    },
+    {
+      "name": "resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://github.com/Thornyxx/YoruLabs-Launcher-Files/releases/download/v1.0/resourcefullib-forge-1.20.1-2.1.29.jar"
+    },
+    {
+      "name": "architectury-9.2.14-forge.jar",
+      "url": "https://github.com/Thornyxx/YoruLabs-Launcher-Files/releases/download/v1.0/architectury-9.2.14-forge.jar"
     }
     
   ]
