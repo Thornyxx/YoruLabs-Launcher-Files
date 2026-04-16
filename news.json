@@ -10,5 +10,11 @@
     "date": "16/04/2026",
     "heure": "17:00",
     "content": "MAINTENANCE PRÉVUE À 20H."
+  },
+  {
+    "id": 3,
+    "date": "16/04/2026",
+    "heure": "16:50",
+    "content": "Bienvenue sur YoruGroups !"
   }
 ]
